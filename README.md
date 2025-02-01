@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### npx create-react-app passwrod-validator-app 
+### cd passwrod-validator-app
+### npm install validator 
+Downlaod the code and run the above command to install the validator in your application.
 ### `npm start`
 
 Runs the app in the development mode.\
